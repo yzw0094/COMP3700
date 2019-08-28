@@ -1,5 +1,10 @@
 package Assignment2;
-
+/**
+COMP 3700
+Assignment 2
+Yannan Wang
+08/28/2019
+*/
 public class Finder {
  public static Integer findMax(int[] intArray) {
      if (intArray == null || intArray.length == 0) {
