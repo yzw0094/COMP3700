@@ -1,6 +1,11 @@
 package Assignment2;
 import org.junit.Test;
-
+/**
+COMP 3700
+Assignment 2
+Yannan Wang
+08/28/2019
+*/
 public class FinderTest {
 int[] intArray = new int[] {2,9,66,54,23,85,69,62,465,897,52,36};
 @Test
